@@ -25,7 +25,7 @@ public static void main(String[] args) {
 		List<String> navn2 = List.of("Ola","Kari","Petter"); // lager en liste
 		navn2.forEach(System.out::println);  // skriver ut listen til skjerm
 		
-		
+				
 		
 		
 		
